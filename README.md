@@ -17,6 +17,11 @@
 1) Open .sln file with Visual Studio 2022
 2) Run the API Application
 
+## Using your own .txt Files
+
+- Update the files located at : https://github.com/CollinHerber/d2r-drop-calc/tree/master/src/Lib/D2Files
+- This is currently using the D2R Reimagined Files
+
 ## Documentation
 
 - When running locally go to `http://localhost:5000/swagger/` in your browser to view the generated swagger documentation and URL tested (Basic Postman essentially)
