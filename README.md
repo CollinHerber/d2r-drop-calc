@@ -1,21 +1,26 @@
-# Net Core Example API
+# D2R Drop Calculator
 
-Net Core Example API
+## Contributing
 
-## Creating Database Migrations (Visual Studio):
+1) Fork the Repo
+2) Push some Code
+3) Open up a PR
 
-- Open `Package Manager Console` (Tools -> Nuget Package Manager -> PMC)
-- Change `Default project` to `src\Data`
-- Execute `Add-Migration` command providing a name (Proper Case naming standard) for the database migration
- 
-```
-    add-migration MigrationName
-```
+## Pre Reqs
 
-## Here are some steps to follow to get started from the command line:
+1) Visual Studio 2022+
+2) .NET 6 SDK
+3) Minor C# Knowledge
 
-Build API project
-```
-    cd "src/Api"
-    dotnet publish --configuration Release
-```
+## Launching the App Locally
+
+1) Open .sln file with Visual Studio 2022
+2) Run the API Application
+
+## Documentation
+
+- When running locally go to `http://localhost:5000/swagger/` in your browser to view the generated swagger documentation and URL tested (Basic Postman essentially)
+
+## Closing Remarks
+
+Enjoy
