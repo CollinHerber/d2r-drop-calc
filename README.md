@@ -17,7 +17,7 @@
 1) Open .sln file with Visual Studio 2022
 2) Run the API Application
 
-## Using your own .txt Files
+## Using your own .txt and .json Files
 
 - Update the files located at : https://github.com/CollinHerber/d2r-drop-calc/tree/master/src/Lib/D2Files
 - This is currently using the D2R Reimagined Files
